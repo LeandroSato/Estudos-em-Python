@@ -1,5 +1,5 @@
-# Print do nome completo
-print("Leandro Sato")
+nome = input("Digite seu nome: ")
+idade = input("Digite sua idade: ")
 
-# Print da idade
-print(19, "anos")
+print("Olá " + nome + "! Você tem " + idade + " anos.")
+

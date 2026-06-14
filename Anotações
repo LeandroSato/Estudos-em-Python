@@ -1,0 +1,6 @@
+Função
+
+print() = mostrar na tela
+type() = mostrar o tipo de variável
+input() = receber dados do usuário
+int() = converter para inteiro
