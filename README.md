@@ -70,16 +70,6 @@ Usados para combinar expressões booleanas
 | `elif` | Senão se |
 | `else` | Senão |
 
-exemplo:
-
-idade = int(input("Digite sua idade: "))
-if idade >= 18:
-    print("Você é maior de idade.")
-elif idade >= 13:
-    print("Você é adolescente.")
-else:
-    print("Você é criança.")
-
 #Sempre colocar em ordem (de cima para baixo do mais específico 
 #para o mais geral, ou seja, do maior para o menor.)
 
@@ -87,3 +77,12 @@ else:
 
 # Aula 6
 
+##looping
+
+| Estrutura | Descrição |
+|-----------|-----------|
+| `while` | Enquanto |
+| `for` | Para |
+
+For = Usar quando saber a quantidade de vezes que precisa repetir a tarefa
+While = Usar quando não souber a quantidade de vezes que precisa repetir a tarefa
