@@ -185,3 +185,26 @@ pessoa["idade"]   # 25
 | Lista | Sim | Sim | Por índice |
 | Tupla | Sim | Não | Por índice |
 | Dicionário | Não | Sim | Por chave |
+
+---
+
+# Aula 8
+
+## Funções
+
+Bloco de código que é escrito uma vez e pode ser utilizado várias vezes.
+
+```python
+def nome_da_funcao(parametros):
+    # código
+    return resultado
+```
+
+### Organização
+
+| Prática | Descrição |
+|---------|-----------|
+| Separar em arquivos | Criar arquivos diferentes para organizar o código |
+| Reutilizar funções | Importar e chamar funções entre arquivos |
+
+# Segue o link do trabalho: https://github.com/LeandroSato/Python-Fun-es.git

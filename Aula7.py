@@ -7,7 +7,7 @@ frutas.append("Uva")
 frutas.append("Laranja")
 frutas.remove("Banana")
 
-print(len(frutas))
+print(len(frutas)) #tamanho da lista
 
 print(frutas)
 
